@@ -18,5 +18,5 @@ tools used is vs code
 technology used react js ,css ,java script, html ,react bootsratp
 
 # we used use state and use effect and api calling and form handling and css
-# it is a food search where we can search you can view in car dview in differnt types
+# it is a food search where we can search you can view in card view in differnt types
 
